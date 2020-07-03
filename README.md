@@ -1,0 +1,2 @@
+# STM32F103C8T6_WINUSB
+基于STM32F103C8T6的winUSB功能，使用cubemx生成的CDC设备修改
